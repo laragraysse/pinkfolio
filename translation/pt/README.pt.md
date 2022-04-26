@@ -1,8 +1,8 @@
 ## PINKFOLIO ##
 
-<p> Este site foi desenvolvido em 2021 quando eu estava reaprendendo html, css and javascript. <p>
+<p> Este site foi desenvolvido em 2021 quando eu estava reaprendendo html, css e javascript. <p>
 
-![Final Result](Images/preview.png) <br>
+![Final Result](/Images/preview.png) <br>
 
 ## 📑 SOBRE O WEBSITE
 Inicialmente essa era a ideia para o meu próprio portfólio, entretando eu parei de estudar porque eu tinha que trabalhar e não tinha tempo para continuar desenvolvendo o
