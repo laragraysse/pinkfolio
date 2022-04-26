@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title> Portfolio | Lara Graysse </title>
+  <meta name="author" content="Lara Graysse">
+  <meta name="description" content="Portfolio of an aspiring full stack web developer.">
+  <meta name="keywords" content="websites, sites, web dev, dev, developer, desenvolvedora, desenvolvimento, programadora, programação, programming">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- css -->
+  <link rel="stylesheet" href="style.css">
+  <!-- fontawesome link -->
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/fontawesome.css">
+  
+</head>
+
+<body>
+  <!-- to top button -->
+  <div class="scroll-button">
+    <a href="#home"><i class="fa fa-chevron-up" aria-hidden="true"></i></i></a>
+  </div>
+
+  <!-- navigation menu -->
+  <nav>
+    <div class="navbar">
+      <div class="logo"><a href="#home">pinkfolio.</a></div>
+      
+      <ul class="menu">
+          <li><a href="#about">about me</a></li>
+          <li><a href="#skills">skills</a></li>
+          <li><a href="#services">projects</a></li>
+          <li><a href="#contact">contact</a></li>
+          <li><a href=""></a></li>
+
+          <div class="cancel-btn">
+            <i class="fa fa-times" aria-hidden="true"></i>
+          </div>
+      </ul>
+    </div>
+
+    <div class="menu-btn">
+      <i class="fa fa-bars" aria-hidden="true"></i>
+    </div>
+  </nav>
+
+  <!-- Home Section -->
+  <section class="home" id="home">
+    <div class="home-content">
+      <div class="text">
+        <div class="text-one">ipsum dolor,</div>
+        <div class="text-two">Lorem Lorem Lorem</div>
+        <div class="text-three">consectetur adipiscing elit</div>
+        <div class="text-four">tellus Vestibulum.</div>
+      </div>
+
+      <div class="button">
+        <a href="#contact">get in touch</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section class="about" id="about">
+    <div class="content">
+      <div class="title"><span>about me</span></div>
+      
+      <div class="about-details">
+        <div class="left">
+          <img src="Images/girl-working.png" alt="Working Girl">
+        </div>
+
+        <div class="right">
+          <div class="topic">ante ipsum primis in faucibus</div>
+          
+          <p>
+            Nunc risus justo, ullamcorper commodo lacinia vitae, dictum et velit. 
+            Morbi at ligula ultrices, feugiat turpis vel, dignissim nibh. Nam vitae dolor vitae urna vestibulum consequat. 
+            Sed mollis, purus id scelerisque consectetur, diam purus efficitur nunc, quis convallis tortor nibh vel tortor. <br><br>
+            Praesent luctus feugiat condimentum. Interdum et malesuada fames ac ante ipsum primis in faucibus. 
+            Praesent in leo mattis massa imperdiet auctor mattis et turpis.
+          </p>
+          
+            <div class="button">                  
+              <a href="#">cv in english</a>
+            </div>
+
+            <div class="button">
+              <a href="#">cv in portuguese</a>
+            </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- My Skill Section -->
+  <section class="skills" id="skills">
+  <div class="content">
+    <div class="title"><span>skills</span></div>
+
+    <div class="skills-details">
+      <div class="left">
+        <img src="Images/tecnologies.png" alt="technologies">
+      </div>
+
+      <div class="text">
+        <div class="topic">luctus feugiat condimentum</div>
+        
+        <p>
+          Fusce fermentum diam eget consectetur varius. Etiam quam massa, finibus quis tortor tempus, auctor mattis massa. 
+          Praesent tellus velit, ultrices vitae mollis a, aliquet vel dui. Suspendisse cursus nisl enim, feugiat 
+          vestibulum augue finibus vitae. Cras gravida metus lectus, vehicula congue urna condimentum at.
+          Ut lacinia tortor libero, at rhoncus metus aliquet vel. Praesent rutrum leo tortor, a tincidunt elit ornare non. 
+          Fusce rhoncus velit velit, in semper quam consectetur at. Duis mattis enim ac nisi mattis, dictum pulvinar ex sagittis. 
+          Aliquam in tellus enim. Suspendisse a convallis lorem.
+        </p>
+      </div>
+    </div>
+  </div>
+  </section>
+
+  <!-- My Projects Section Start -->
+  <section class="services" id="services">
+    <div class="content">
+        <div class="title"><span>projects</span></div>
+
+        <div class="boxes">
+          <div class="box">
+            <div class="topic">soon</div>
+            <p>project under construction.</p>
+          </div>
+        
+          <div class="box"> 
+            <div class="topic">soon</div>
+            <p>project under construction.</p>
+          </div>
+        
+          <div class="box">
+            <div class="topic">soon</div>
+            <p>project under construction.</p>
+          </div>
+        
+          <div class="box">
+            <div class="topic">soon</div>
+            <p>project under construction.</p>
+          </div>
+        
+          <div class="box">
+            <div class="topic">soon</div>
+            <p>project under construction.</p>
+          </div>
+        
+          <div class="box">
+            <div class="topic">soon</div>
+            <p>project under construction.</p>
+          </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Me Section Start -->
+  <section class="contact" id="contact">
+    <div class="content">
+      <div class="title"><span>send me an email</span></div>
+
+      <form id="form" action="https://formsubmit.co/laragraysse@gmail.com" method="POST">
+        <input type="hidden" name="_next" value="https://portfolio-laragraysse.vercel.app/thanks.html">
+        <input type="hidden" name="_subject" value="New Portfolio Contact!">
+        <input type="hidden" name="_template" value="box">
+
+        <p type="name:"></p>
+        <input type="text" name="name" placeholder="type your name" required>
+
+        <p type="email:"></p>
+        <input type="email" name="email" placeholder="type your email" required>
+
+        <p type="message:"></p>
+        <textarea name="message" cols="35" rows="9" placeholder="what would you like to ask me?" required></textarea>
+
+        <input class="button" type="submit" value="submit">
+      </form>
+
+      <div class="text">
+        <div class="topic">wanna get in touch?</div>
+        <p>feel free to message me on my social media profiles! Click on the buttons and you will be redirected!</p>
+
+          <div class="social-button">
+            <a href="#" target="_blank"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;github</a>
+          </div>
+    
+          <div class="social-button">
+            <a href="#" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i>&nbsp;linkedin</a>
+          </div>
+
+          <div class="social-button">
+            <a href="#" target="_blank"><i class="fa fa-whatsapp" aria-hidden="true"></i>&nbsp;whatsapp</a>
+          </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- footer section -->
+  <footer>
+    <div class="text">
+      <span>created by <a href="https://www.instagram.com/lara.graysse/" target="_blank">Lara Graysse</a> | &#169; 2021 all rights reserved</span>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
