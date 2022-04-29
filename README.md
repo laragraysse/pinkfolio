@@ -4,7 +4,7 @@
 
 <p> This website was built back in 2021 when I was relearning html, css and javascript. <p>
   
-##### CHECK IT WORKING HERE: <a href="http://pinkfolio.epizy.com" target="_blank"> Pinkfolio Website </a> <br>
+##### CHECK IT WORKING HERE: <a href="http://pinkfolio.graysse.com" target="_blank"> Pinkfolio Website </a> <br>
 
 ![Final Result](Images/preview.png) <br>
 
