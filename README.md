@@ -28,7 +28,7 @@ I'm not really sure what did I learn building this project since it's been a whi
 
 ### 🍜 LICENSE
 
-This project is under license. Check it out [LICENSE](LICENSE.md) for more details.<br>
+This project is under license. Check it out [LICENSE](LICENSE) for more details.<br>
 
 ##
 
