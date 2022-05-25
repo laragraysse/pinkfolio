@@ -26,9 +26,9 @@ Neste site eu usei: <br>
 ### 📚 O QUE EU APRENDI
 Como já passou um tempo desde que o desenvolvi, não tenho a certeza do que eu aprendi mas com certeza eu estava tentando aprender responsividade. Não é que hoje eu sou uma pro nisso mas de certo que eu sou melhor do que antes xd. Responsividade era e ainda é uma das minhas fraquezas ... eu sou bem perfeccionista e por isso eu acabo tendo uma certa dificuldade em encontrar os melhores breakpoints (pontos de quebra ou melhor, as resoluções de tela corretas) e os melhores tamanhos para os elementos de cada breakpoint, mas eu nunca desisto!
 
-### 🍜 LICENÇA
+### 🔏 LICENÇA
 
-Este projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
+Este projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.<br>
 
 ##
 
