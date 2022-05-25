@@ -26,7 +26,7 @@ On this website I worked with: <br>
 ### 📚 WHAT DID I LEARN
 I'm not really sure what did I learn building this project since it's been a while I build it but, I'm sure I was trying to learn responsiveness. Not that I'm a pro nowadays but certainly I'm better than before xd. Responsiveness was and still is one of my weaknesses ... I'm a perfectionist person so I really struggle on finding the best breakpoints and the best element sizes for each breakpoint, but I never give up!
 
-### 🍜 LICENSE
+### 🔏 LICENSE
 
 This project is under license. Check it out [LICENSE](LICENSE) for more details.<br>
 
