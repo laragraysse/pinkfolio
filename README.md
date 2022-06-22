@@ -9,7 +9,7 @@
 ![Final Result](Images/preview.png) <br>
 
 ### 📑 ABOUT THE WEBSITE
-This project was initially my own portfolio idea but, I stopped studying because I had to work and had no time to work on it, I mean, it's not even really responsive tho xd but for sure I'll still make some improvements on this one, it's a cute project! Maybe I'll turn it a free template for people who needs a simple portfolio website and don't want to create one from scratch.<br>
+This project was initially my own portfolio idea but, I stopped studying because I had to work and had no time to work on it, I mean, it's not even really responsive tho xd but for sure I'll still make some improvements on this one or redesign and code it from scratch again, it's a cute project! <br>
 
 This website has only one page which is divided by sections. They are: <br>
 - about me. <br>
